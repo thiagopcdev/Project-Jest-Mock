@@ -13,14 +13,14 @@ Foi implementado testes utilizando o **Jest** para verificar se uma série de fu
 
 ---
 
-# Requisitos do projeto
+## Requisitos do projeto
 
-## Lista de requisitos
+### Lista de requisitos
 
-### 1 - Crie testes para uma função assíncrona
+#### 1 - Crie testes para uma função assíncrona
 
-### 2 - Crie um "Mock" no arquivo test/mockFunctions.spec.js
+#### 2 - Crie um "Mock" no arquivo test/mockFunctions.spec.js
 
-### 3 - Crie um Mock para o retorno da API
+#### 3 - Crie um Mock para o retorno da API
 
-### 4 - Crie funções no arquivo test/setupTeardown.spec.js
+#### 4 - Crie funções no arquivo test/setupTeardown.spec.js
